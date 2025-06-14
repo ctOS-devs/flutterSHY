@@ -9,6 +9,9 @@
 
 This Flutter version is created for ctOS, please do not use it for non-ctOS, or you can have some problems with building and updating
 
+## if you are a blumer
+please use version from Blume-co/flutterSHY and follow sl/fluttersetup to install it
+
 ## Documentation
 
 * [Install Flutter](https://flutter.dev/get-started/)
